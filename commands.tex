@@ -11,6 +11,35 @@
 \usepackage{setspace}
 \usepackage{titletoc}
 \usepackage{tocloft}
+
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+  language=Java,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3,
+   escapeinside={\%*}{*)},
+      morekeywords={encoding,
+        xs:schema,xs:element,xs:complexType,xs:sequence,xs:attribute}
+}
+
+
 %با فعال کردن بسته زیر فوت‌نوت‌ها در هر صفحه ریست می‌شوند. حالت پیش‌فرض آن ریست شدن در هر فصل می‌باشد.
 %\usepackage[perpage]{footmisc}
 \usepackage{enumitem}
@@ -56,13 +85,13 @@
 \usepackage{xepersian}%[extrafootnotefeatures]
 \SepMark{-}
 %حتماً از تک لایو 2014 استفاده کنید.
-\settextfont[Scale=1.2]{B Nazanin}
-\setlatintextfont{Times New Roman}
+\settextfont[Scale=1.3]{B Nazanin}
+\setlatintextfont{Georgia}
 \renewcommand{\labelitemi}{$\bullet$}
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 % چنانچه می‌خواهید اعداد در فرمول‌ها، انگلیسی باشد، خط زیر را غیرفعال کنید.
 %در غیر اینصورت حتماً فونت PGaramond را نصب کنید.
-\setdigitfont[Scale=1.1]{PGaramond}%%Yas
+%\setdigitfont[Scale=1.1]{PGaramond}%%Yas
 %%%%%%%%%%%%%%%%%%%%%%%%%%
 % تعریف قلم‌های فارسی اضافی برای استفاده در بعضی از قسمت‌های متن
 \defpersianfont\nastaliq[Scale=2]{IranNastaliq}
@@ -74,6 +103,7 @@
 
 % دستوری برای تغییر نام کلمه «کتاب‌نامه» به «منابع و مراجع«
 \renewcommand{\bibname}{منابع و مراجع}
+
 
 
 % Headings for every page of ToC, LoF and Lot
@@ -229,7 +259,6 @@
 }
 %
 
-
 %دستور حذف نام لیست تصاویر و لیست جداول از فهرست مطالب
 \newcommand*{\BeginNoToc}{%
   \addtocontents{toc}{%
@@ -247,6 +276,8 @@
 \newcounter{savepage}
 \renewcommand{\listfigurename}{فهرست اشکال}
 \renewcommand{\listtablename}{فهرست جداول}
+\usepackage{booktabs}% http://ctan.org/pkg/booktabs
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
 %\renewcommand\cftsecleader{\cftdotfill{\cftdotsep}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%

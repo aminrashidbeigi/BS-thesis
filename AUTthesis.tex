@@ -21,7 +21,7 @@
 %        اگر قصد نوشتن رساله دکتری را دارید، در خط زیر به جای msc،
 %      کلمه phd را قرار دهید. کلیه تنظیمات لازم، به طور خودکار، اعمال می‌شود.
 %%% !TEX TS-program = XeLaTeX
-\documentclass[oneside,msc,12pt]{AUTthesis}
+\documentclass[oneside,bsc,12pt]{AUTthesis}
 %       فایل commands.tex را حتماً به دقت مطالعه کنید؛ چون دستورات مربوط به فراخوانی بسته زی‌پرشین 
 %       و دیگر بسته‌ها و ... در این فایل قرار دارد و بهتر است که با نحوه استفاده از آنها آشنا شوید. توجه شود برای نسخه نهایی پایان‌نامه حتماً hyperref را 
 %        غیرفعال کنید.
@@ -49,7 +49,7 @@
 % در صورت تمایل می‌توانید با فعال کردن دستور بالا، لیست تصاویر را به  پایان‌نامه خود اضافه کنید.
 %-------------------------------------------------------------------------symbols(فهرست نمادها)
 % وجود لیست نمادها الزامیست.(لطفاً نمادهای خود را جایگذین نمادهای پیش‌فرض کنید.)
-\input{list-of-symbols}
+%\input{list-of-symbols}
 
 \pagenumbering{arabic}
 \pagestyle{style1}
@@ -66,17 +66,17 @@
 \appendix
 \bibliographystyle{plain-fa}
 \bibliography{references}
-\include{appendix1}
+%\include{appendix1}
 %--------------------------------------------------------------------------dictionary(واژه نامه ها)
 %اگر مایل به داشتن صفحه واژه‌نامه نیستید، خط زیر را غیر فعال کنید.
 \parindent=0pt
-\include{dicfa2en}%
-\include{dicen2fa}
+%\include{dicfa2en}%
+%\include{dicen2fa}
 %--------------------------------------------------------------------------index(نمایه)
 %اگر مایل به داشتن صفحه نمایه نیستید، خط زیر را غیر فعال کنید.
 \pagestyle{style7}
 \printindex
 \pagestyle{style7}
-\include{en-abstract}
-\input{en_title}
+%\include{en-abstract}
+%\input{en_title}
 \end{document}

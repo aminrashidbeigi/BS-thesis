@@ -123,7 +123,7 @@
 \else\fi
 \else
 \ifx\fsecondadvisor\undefined%
-استاد مشاور
+استاد داور
 \vspace*{-0.8cm}
 {\fontsize{18pt}{19pt}\selectfont\bfseries\par
 \ffirstadvisor}

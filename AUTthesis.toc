@@ -1,0 +1,82 @@
+\edef \SavedTocDepth {\the \value {tocdepth}}
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{فهرست اشکال}{ه}{section*.4}
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}
+\contentsline {section}{\numberline {1-1}مقدمه}{2}{section.1.1}
+\par عنوان\hfill صفحه \par 
+\setcounter {tocdepth}{\SavedTocDepth }
+\contentsline {chapter}{\numberline {2}تعریف مسئله، راه حل پیشنهادی و تعریف نیازمندی‌ها}{4}{chapter.2}
+\contentsline {section}{\numberline {2-1}مقدمه}{5}{section.2.1}
+\contentsline {section}{\numberline {2-2}تعریف مسئله}{5}{section.2.2}
+\contentsline {section}{\numberline {2-3}راه حل پیشنهادی}{5}{section.2.3}
+\contentsline {section}{\numberline {2-4}نیازمندی‌های پروژه}{6}{section.2.4}
+\contentsline {subsection}{\numberline {2-4-1}رابط کاربری مدیریت}{6}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2-4-2}برنامه جمع‌آوری محصولات سفارش‌ها}{6}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2-4-3}برنامه انتخاب محصولات بخش‌ها‌}{7}{subsection.2.4.3}
+\contentsline {section}{\numberline {2-5}نتیجه‌گیری}{7}{section.2.5}
+\contentsline {chapter}{\numberline {3}اجزا و تکنولوژی‌ها}{8}{chapter.3}
+\contentsline {section}{\numberline {3-1}مقدمه}{9}{section.3.1}
+\contentsline {section}{\numberline {3-2}رزبری‌پای مدل \lr {3A}}{9}{section.3.2}
+\contentsline {section}{\numberline {3-3}نمایشگر لمسی \lr {3.5} اینچی وِیوشِر}{10}{section.3.3}
+\contentsline {section}{\numberline {3-4}سیستم‌عامل رزبین}{12}{section.3.4}
+\contentsline {section}{\numberline {3-5}چهارچوب نرم‌افزاری جنگو}{13}{section.3.5}
+\contentsline {subsection}{\numberline {3-5-1}مزیت‌های جنگو}{13}{subsection.3.5.1}
+\contentsline {subsubsection}{امکان جداسازی محتوا از ظاهر نمایشی}{14}{section*.5}
+\contentsline {subsubsection}{لایه‌بندی}{14}{section*.6}
+\contentsline {subsubsection}{امکان استفاده موثر از سطح بالایی از تجرید و انتزاع}{15}{section*.7}
+\contentsline {subsection}{\numberline {3-5-2}تاثیر پایتون بر روی جنگو}{15}{subsection.3.5.2}
+\contentsline {subsection}{\numberline {3-5-3}بخش‌های جنگو}{16}{subsection.3.5.3}
+\contentsline {subsection}{\numberline {3-5-4}انطباق با میزبان‌های مختلف}{17}{subsection.3.5.4}
+\contentsline {section}{\numberline {3-6}چهارچوب نرم‌افزاری \lr {REST} جنگو}{17}{section.3.6}
+\contentsline {subsection}{\numberline {3-6-1}رابط برنامه‌نویسی نرم‌افزار چیست؟}{18}{subsection.3.6.1}
+\contentsline {subsubsection}{آشنایی با انواع رابط‌های برنامه‌نویسی نرم‌افزار}{18}{section*.8}
+\contentsline {subsubsection}{تقسیم‌بندی رابط‌های برنامه‌نویسی نرم‌افزار از بُعد سطح دسترسی}{18}{section*.9}
+\contentsline {subsection}{\numberline {3-6-2}\lr {REST} چیست؟}{19}{subsection.3.6.2}
+\contentsline {subsection}{\numberline {3-6-3}جنگو \lr {REST}}{20}{subsection.3.6.3}
+\contentsline {section}{\numberline {3-7}چهارچوب نرم‌افزاری \lr {Vue.js}}{21}{section.3.7}
+\contentsline {subsection}{\numberline {3-7-1}اجزاء}{21}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3-7-2}قالب‌ها}{21}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3-7-3}انتقال‌ها}{22}{subsection.3.7.3}
+\contentsline {subsection}{\numberline {3-7-4}چهارچوب نرم‌افزاری \lr {Nuxt.js}}{22}{subsection.3.7.4}
+\contentsline {section}{\numberline {3-8}پایگاه‌داده رابطه‌ای \lr {Postgress}}{22}{section.3.8}
+\contentsline {subsection}{\numberline {3-8-1}پایگاه داده رابطه‌ای}{23}{subsection.3.8.1}
+\contentsline {subsubsection}{ویژگی‌های رابطه}{23}{section*.10}
+\contentsline {subsubsection}{انواع کلیدها در مدل رابطه‌ای}{24}{section*.11}
+\contentsline {subsection}{\numberline {3-8-2}پایگاه‌داده \lr {Postgress}}{25}{subsection.3.8.2}
+\contentsline {section}{\numberline {3-9}ماشین مجازی}{26}{section.3.9}
+\contentsline {subsection}{\numberline {3-9-1}دلایل استفاده از میزبان مجازی شخصی}{27}{subsection.3.9.1}
+\contentsline {subsection}{\numberline {3-9-2}موارد استفاده از میزبان مجازی شخصی}{28}{subsection.3.9.2}
+\contentsline {subsubsection}{اجرای یک وب‌سایت}{28}{section*.12}
+\contentsline {subsubsection}{ایجاد یک سرور یا سرویس}{28}{section*.13}
+\contentsline {subsubsection}{ایجاد یک محیط آزمایشی}{28}{section*.14}
+\contentsline {section}{\numberline {3-10}نتیجه‌گیری}{28}{section.3.10}
+\contentsline {chapter}{\numberline {4}طراحی و پیاده‌سازی}{30}{chapter.4}
+\contentsline {section}{\numberline {4-1}مقدمه}{31}{section.4.1}
+\contentsline {section}{\numberline {4-2}نمایشگر لمسی}{31}{section.4.2}
+\contentsline {subsection}{\numberline {4-2-1}نحوه قرارگیری بر روی پین‌های \lr {GPIO}}{32}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4-2-2}راه‌اندازی نمایشگر بر روی رزبری‌پای}{32}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4-2-3}تنظیم صفحه لمسی}{34}{subsection.4.2.3}
+\contentsline {section}{\numberline {4-3}طراحی و پیاده‌سازی پایگاه‌داده}{35}{section.4.3}
+\contentsline {subsection}{\numberline {4-3-1}محصولات}{35}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4-3-2}سفارش‌ها}{36}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4-3-3}بخش‌ها}{37}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4-3-4}دسته‌بندی‌ها}{37}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4-3-5}جداول میانی}{37}{subsection.4.3.5}
+\contentsline {section}{\numberline {4-4}رابط‌های برنامه‌نویسی نرم‌افزار}{38}{section.4.4}
+\contentsline {subsection}{\numberline {4-4-1}دریافت محصولات فعال}{38}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4-4-2}لیست سفارش‌ها}{39}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4-4-3}دریافت محصولات یک سفارش}{40}{subsection.4.4.3}
+\contentsline {subsection}{\numberline {4-4-4}لیست بخش‌ها}{41}{subsection.4.4.4}
+\contentsline {subsection}{\numberline {4-4-5}ثبت جایگاه یک محصول}{42}{subsection.4.4.5}
+\contentsline {subsection}{\numberline {4-4-6}اطلاع اتمام جمع‌آوری محصولات سفارش}{42}{subsection.4.4.6}
+\contentsline {section}{\numberline {4-5}‌برنامه انتخاب محصولات بخش‌ها}{42}{section.4.5}
+\contentsline {section}{\numberline {4-6}برنامه جمع‌آوری محصول}{44}{section.4.6}
+\contentsline {section}{\numberline {4-7}رابط کاربری مدیریت}{45}{section.4.7}
+\contentsline {subsection}{\numberline {4-7-1}احراز هویت و دسترسی}{46}{subsection.4.7.1}
+\contentsline {subsection}{\numberline {4-7-2}ایجاد و ویرایش عناصر پایگاه‌داده}{47}{subsection.4.7.2}
+\contentsline {section}{\numberline {4-8}نتیجه‌گیری}{47}{section.4.8}
+\contentsline {chapter}{\numberline {5}جمع‌بندی، نتيجه‌گيري و پیشنهادات}{49}{chapter.5}
+\contentsline {section}{\numberline {5-1}جمع‌بندی و نتیجه‌گیری}{50}{section.5.1}
+\contentsline {section}{\numberline {5-2}کارهای آینده}{50}{section.5.2}
+\contentsline {chapter}{منابع و مراجع}{52}{appendix*.15}
+\contentsfinish 
