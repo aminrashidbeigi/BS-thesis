@@ -1,0 +1,1518 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.2.19)  16 OCT 2019 22:16
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./taid.tex
+(./taid.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+! Undefined control sequence.
+l.5 \section
+            *{صفحه فرم ارزیابی و تصویب پایان نام...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \section*
+             {صفحه فرم ارزیابی و تصویب پایان نام...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no * in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ح in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ص in font nullfont!
+Missing character: There is no و in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no پ in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no - in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no أ in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no ض in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ء in font nullfont!
+Missing character: There is no ك in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ي in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ه in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ف in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ع in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 5--6
+[]
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10    د
+          ر این صفحه فرم دفاع یا تایید و تصویب �...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no د in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no ح in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ج in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no آ in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ز in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ق in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no د in font cmr12!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 10--12
+[]
+ []
+
+
+Overfull \hbox (3.91663pt too wide) in paragraph at lines 10--12
+\OT1/cmr/m/n/12 -
+ []
+
+
+Overfull \hbox (3.91663pt too wide) in paragraph at lines 10--12
+\OT1/cmr/m/n/12 -
+ []
+
+
+Overfull \hbox (3.26385pt too wide) in paragraph at lines 10--12
+\OT1/cmr/m/n/12 .
+ []
+
+! Undefined control sequence.
+l.14 \subsection
+                *{نکات مهم:}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \subsection*
+                 {نکات مهم:}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no م in font cmr12!
+
+Overfull \hbox (25.87494pt too wide) in paragraph at lines 14--15
+[]\OT1/cmr/m/n/12 *
+ []
+
+
+Overfull \hbox (3.26385pt too wide) in paragraph at lines 14--15
+\OT1/cmr/m/n/12 : 
+ []
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 \begin{itemize}
+                    
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 16--16
+[] 
+ []
+
+Missing character: There is no ن in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ه in font cmr12!
+! Undefined control sequence.
+l.19 ^^I{\color
+               {red}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ز in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no آ in font cmr12!
+Missing character: There is no خ in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no خ in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ح in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ض in font cmr12!
+Missing character: There is no ر in font cmr12!
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 18--23
+\OT1/cmr/m/n/12 /
+ []
+
+
+Overfull \hbox (16.31927pt too wide) in paragraph at lines 18--23
+\OT1/cmr/m/n/12 red
+ []
+
+
+Overfull \hbox (7.83325pt too wide) in paragraph at lines 18--23
+\OT1/cmr/m/n/12 .(
+ []
+
+
+Overfull \hbox (4.5694pt too wide) in paragraph at lines 18--23
+\OT1/cmr/m/n/12 ) 
+ []
+
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ج in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no چ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ي in font cmr12!
+Missing character: There is no ك in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ي in font cmr12!
+Missing character: There is no ، in font cmr12!
+Missing character: There is no ك in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ي in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ك in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ي in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ي in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no ك in font cmr12!
+Missing character: There is no ي in font cmr12!
+Missing character: There is no ، in font cmr12!
+Missing character: There is no ط in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ي in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no ي in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no د in font cmr12!
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 23--24
+\OT1/cmr/m/n/12 /
+ []
+
+
+Overfull \hbox (3.26385pt too wide) in paragraph at lines 23--24
+\OT1/cmr/m/n/12 . 
+ []
+
+Missing character: There is no چ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no ح in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ت in font cmr12!
+! Undefined control sequence.
+l.25 {\color
+            {red}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ج in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no آ in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no ي in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ي in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no د in font cmr12!
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 24--29
+\OT1/cmr/m/n/12 /
+ []
+
+
+Overfull \hbox (16.31927pt too wide) in paragraph at lines 24--29
+\OT1/cmr/m/n/12 red
+ []
+
+
+Overfull \hbox (9.1388pt too wide) in paragraph at lines 24--29
+\OT1/cmr/m/n/12 ()
+ []
+
+
+Overfull \hbox (3.26385pt too wide) in paragraph at lines 24--29
+\OT1/cmr/m/n/12 . 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1]
+! Undefined control sequence.
+<argument> \includegraphics 
+                            [scale=1.1]{fa-logo}
+l.35 ...7,0){\includegraphics[scale=1.1]{fa-logo}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \footnotesize 
+                         {دانشگاه صنعتی امیرکبیر}
+l.36 ...انشگاه صنعتی امیرکبیر}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no د in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ر in font cmr12!
+! Undefined control sequence.
+<argument> \footnotesize 
+                         {(پلی‌تکنیک تهران)}
+l.37 ...otesize{(پلی‌تکنیک تهران)}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ‌ in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+! Undefined control sequence.
+<argument> \bf 
+               {به نام خدا}
+l.38   \put(170,30){\bf{به نام خدا}}
+                                            
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no خ in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ا in font cmr12!
+! Undefined control sequence.
+<argument> \Large 
+                  \bf {تعهدنامه اصالت اثر}
+l.39 ...ge\bf{تعهدنامه اصالت اثر}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \Large \bf 
+                      {تعهدنامه اصالت اثر}
+l.39 ...ge\bf{تعهدنامه اصالت اثر}}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ث in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no خ in font cmr12!
+! Undefined control sequence.
+<argument> تاریخ: \datethesis 
+                                   
+l.40   \put(310,0){تاریخ: \datethesis}
+                                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (70.0pt too wide) in paragraph at lines 41--42
+[][] 
+ []
+
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ي in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ج in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ب in font cmr12!
+! Undefined control sequence.
+l.45 اينجانب {\bf
+                        {\fname\lname}} متعهد می‌شوم که مطا...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.45 اينجانب {\bf{\fname
+                               \lname}} متعهد می‌شوم که مطا...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.45 اينجانب {\bf{\fname\lname
+                                     }} متعهد می‌شوم که مطا...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no م in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ‌ in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ط in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ج in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ‌ in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ح in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ژ in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ج in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ح in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ظ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ژ in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ز in font cmr12!
+Missing character: There is no آ in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ط in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ق in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ق in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ج in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no آ in font cmr12!
+Missing character: There is no خ in font cmr12!
+Missing character: There is no ذ in font cmr12!
+Missing character: There is no ذ in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ‌ in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ق in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ً in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ح in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ز in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no چ in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ‌ in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ط in font cmr12!
+Missing character: There is no ح in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ئ in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ت in font cmr12!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 45--46
+[]
+ []
+
+
+Overfull \hbox (3.26385pt too wide) in paragraph at lines 45--46
+\OT1/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (3.26385pt too wide) in paragraph at lines 45--46
+\OT1/cmr/m/n/12 . 
+ []
+
+Missing character: There is no د in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ث in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no خ in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ز in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ، in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ح in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ط in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ز in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ج in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ق in font cmr12!
+Missing character: There is no ط in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ح in font cmr12!
+Missing character: There is no ق in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ق in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no خ in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no ت in font cmr12!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 47--48
+[]
+ []
+
+
+Overfull \hbox (3.26385pt too wide) in paragraph at lines 47--48
+\OT1/cmr/m/n/12 . 
+ []
+
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ج in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ح in font cmr12!
+Missing character: There is no ق in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ق in font cmr12!
+Missing character: There is no ح in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ز in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ‌ in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ق in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ‌ in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ز in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ج in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ، in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ذ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ط in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no چ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ث in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ، in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no خ in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ‌ in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ، in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ج in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ق in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ز in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no پ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ف in font cmr12!
+Missing character: There is no ق in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no د in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ش in font cmr12!
+Missing character: There is no گ in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ه in font cmr12!
+Missing character: There is no ص in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ی in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no و in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ت in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ق in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ط in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ذ in font cmr12!
+Missing character: There is no ک in font cmr12!
+Missing character: There is no ر in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no آ in font cmr12!
+Missing character: There is no خ in font cmr12!
+Missing character: There is no ذ in font cmr12!
+Missing character: There is no ب in font cmr12!
+Missing character: There is no ل in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no ن in font cmr12!
+Missing character: There is no ع in font cmr12!
+Missing character: There is no ا in font cmr12!
+Missing character: There is no س in font cmr12!
+Missing character: There is no ت in font cmr12!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 50--53
+[]
+ []
+
+
+Overfull \hbox (3.26385pt too wide) in paragraph at lines 50--53
+\OT1/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (3.26385pt too wide) in paragraph at lines 50--53
+\OT1/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (3.26385pt too wide) in paragraph at lines 50--53
+\OT1/cmr/m/n/12 . 
+ []
+
+! Undefined control sequence.
+<argument> \bf 
+               {\fname \lname }
+l.55 {\centerline {\bf{\fname\lname}}
+                                     }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \bf {\fname 
+                       \lname }
+l.55 {\centerline {\bf{\fname\lname}}
+                                     }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \bf {\fname \lname 
+                              }
+l.55 {\centerline {\bf{\fname\lname}}
+                                     }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ا in font cmr12!
+Missing character: There is no م in font cmr12!
+Missing character: There is no ض in font cmr12!
+Missing character: There is no ا in font cmr12!
+)
+! Emergency stop.
+<*> ./taid.tex
+              
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 16 strings out of 493706
+ 121 string characters out of 6148913
+ 54323 words of memory out of 5000000
+ 3456 multiletter control sequences out of 15000+600000
+ 3938 words of font info for 15 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 12i,4n,10p,379b,78s stack positions out of 5000i,500n,10000p,200000b,80000s
+Output written on taid.pdf (1 page).
