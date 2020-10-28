@@ -1,6 +1,10 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
+<<<<<<< HEAD
 \contentsline {chapter}{فهرست اشکال}{د}{section*.4}
+=======
+\contentsline {chapter}{فهرست اشکال}{ه}{section*.4}
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 \contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}
 \contentsline {section}{\numberline {1-1}مقدمه}{2}{section.1.1}
 \par عنوان\hfill صفحه \par 

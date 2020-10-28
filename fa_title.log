@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.10.5)  28 OCT 2020 17:34
 entering extended mode
  restricted \write18 enabled.
@@ -6,6 +7,16 @@ entering extended mode
 (./fa_title.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+=======
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015/W32TeX) (preloaded format=xelatex 2016.2.19)  16 OCT 2019 21:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./fa_title.tex
+(./fa_title.tex
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 ! Undefined control sequence.
 l.7 \faculty
             {دانشکده مهندسی کامپیوتر و فناوری ا...
@@ -348,17 +359,26 @@ Missing character: There is no گ in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ن in font nullfont!
 Missing character: There is no و in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no م in font nullfont!
 Missing character: There is no د in font nullfont!
 Missing character: There is no ی in font nullfont!
 Missing character: There is no ر in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ن in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ن in font nullfont!
 Missing character: There is no ب in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ر in font nullfont!
+<<<<<<< HEAD
+=======
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ر in font nullfont!
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no ه in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no س in font nullfont!
@@ -907,9 +927,20 @@ Missing character: There is no ن in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no س in font nullfont!
 Missing character: There is no ب in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ا in font nullfont!
 Missing character: There is no س in font nullfont!
 Missing character: There is no ت in font nullfont!
+=======
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ‌ in font nullfont!
+Missing character: There is no ب in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no ش in font nullfont!
+Missing character: There is no د in font nullfont!
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no ک in font nullfont!
 Missing character: There is no ه in font nullfont!
 Missing character: There is no م in font nullfont!
@@ -1133,12 +1164,18 @@ Missing character: There is no s in font nullfont!
 Missing character: There is no m in font nullfont!
 )
 ! Emergency stop.
+<<<<<<< HEAD
 <*> fa_title.tex
                 
+=======
+<*> ./fa_title.tex
+                  
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 *** (job aborted, no legal \end found)
 
  
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  4 strings out of 493007
  46 string characters out of 6136719
  61820 words of memory out of 5000000
@@ -1146,4 +1183,13 @@ Here is how much of TeX's memory you used:
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  9i,1n,4p,897b,59s stack positions out of 5000i,500n,10000p,200000b,80000s
+=======
+ 4 strings out of 493706
+ 48 string characters out of 6148913
+ 53323 words of memory out of 5000000
+ 3446 multiletter control sequences out of 15000+600000
+ 3640 words of font info for 14 fonts, out of 8000000 for 9000
+ 1328 hyphenation exceptions out of 8191
+ 9i,1n,4p,900b,59s stack positions out of 5000i,500n,10000p,200000b,80000s
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 No pages of output.

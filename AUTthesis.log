@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.10.5)  28 OCT 2020 19:28
+=======
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.10.5)  17 OCT 2019 11:03
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1275,11 +1279,14 @@ lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmromancaps1
 .................................................
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 (Font)              scaled to size 15.60004pt on input line 88.
+<<<<<<< HEAD
 .................................................
 . fontspec info: "no-scripts"
 . 
 . Font "Georgia" does not contain any OpenType `Script' information.
 .................................................
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 \g__fontspec_family_Georgia_int=\count342
 .................................................
 . fontspec info: "defining-font"
@@ -1289,6 +1296,7 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 .  
 .  This font family consists of the following NFSS series/shapes:
 .  
+<<<<<<< HEAD
 . - 'normal' (m/n) with NFSS spec.: <->"Georgia/OT:mapping=tex-text;"
 . - 'small caps'  (m/sc) with NFSS spec.: 
 . - 'bold' (bx/n) with NFSS spec.: <->"Georgia/B/OT:mapping=tex-text;"
@@ -1298,6 +1306,24 @@ LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
 . - 'bold italic' (bx/it) with NFSS spec.:
 . <->"Georgia/BI/OT:mapping=tex-text;"
 . - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
+=======
+. - 'normal' (m/n) with NFSS spec.:
+. <->"Georgia/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->"Georgia/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold' (bx/n) with NFSS spec.:
+. <->"Georgia/B/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold small caps'  (bx/sc) with NFSS spec.:
+. <->"Georgia/B/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'italic' (m/it) with NFSS spec.:
+. <->"Georgia/I/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->"Georgia/I/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+. - 'bold italic' (bx/it) with NFSS spec.:
+. <->"Georgia/BI/OT:script=latn;language=DFLT;mapping=tex-text;"
+. - 'bold italic small caps'  (bx/itsc) with NFSS spec.:
+. <->"Georgia/BI/OT:script=latn;language=DFLT;+smcp;mapping=tex-text;"
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 .................................................
 LaTeX Info: Redefining \latinfont on input line 89.
 *************************************************
@@ -1553,14 +1579,24 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+<<<<<<< HEAD
 (Font)              scaled to size 26.96207pt on input line 8.
 LaTeX Font Info:    Font shape `TU/BNazanin(0)/bx/n' will be
 (Font)              scaled to size 26.96207pt on input line 8.
  (./AUTthesis.toc
+=======
+(Font)              scaled to size 26.96207pt on input line 7.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/bx/n' will be
+(Font)              scaled to size 26.96207pt on input line 7.
+ (./AUTthesis.toc [2
+
+]
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Overfull \hbox (0.17992pt too wide) detected at line 52
 \TU/BNazanin(0)/bx/n/12 ۳-‏۱۰ 
  []
 
+<<<<<<< HEAD
 [2
 
 ])
@@ -1568,6 +1604,13 @@ Overfull \hbox (0.17992pt too wide) detected at line 52
 \openout5 = `AUTthesis.toc'.
 
  [3] (./AUTthesis.lof
+=======
+[3])
+\tf@toc=\write5
+\openout5 = `AUTthesis.toc'.
+
+ [4] (./AUTthesis.lof
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Overfull \hbox (0.17992pt too wide) detected at line 18
 \TU/BNazanin(0)/bx/n/12 ۴-‏۱۰ 
  []
@@ -1591,7 +1634,11 @@ Overfull \hbox (0.17992pt too wide) detected at line 21
 \tf@lof=\write6
 \openout6 = `AUTthesis.lof'.
 
+<<<<<<< HEAD
  [4
+=======
+ [5
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 
 ])
 \openout2 = `chapter1.aux'.
@@ -1644,8 +1691,15 @@ Package Fancyhdr Warning: \headheight is too small (14.49998pt):
 
 
 ]
+<<<<<<< HEAD
 Missing character: There is no ً in font Georgia/OT:mapping=tex-text;!
 Missing character: There is no ً in font Georgia/OT:mapping=tex-text;!
+=======
+Missing character: There is no ً in font Georgia/OT:script=latn;language=DFLT;m
+apping=tex-text;!
+Missing character: There is no ً in font Georgia/OT:script=latn;language=DFLT;m
+apping=tex-text;!
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 
 Overfull \hbox (0.88678pt too wide) in paragraph at lines 8--11
 []\TU/BNazanin(0)/bx/n/12 امروزه با پیشرفت روزافزون تکنولوژی و ظهور پردازنده‌ها
@@ -1662,8 +1716,16 @@ File: figures/lcd.png Graphic file (type bmp)
 ] [13]
 File: figures/mtv.png Graphic file (type bmp)
 <figures/mtv.png>
+<<<<<<< HEAD
  [14] [15] [16] [17] [18] [19] [20] [21] [22] [23]
 [24] [25] [26] [27] [28]) [29]
+=======
+ [14] [15] [16] [17] [18]
+
+LaTeX Warning: Citation `REST' on page 19 undefined on input line 148.
+
+[19] [20] [21] [22] [23] [24] [25] [26] [27] [28]) [29]
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -1789,6 +1851,12 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 82.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+<<<<<<< HEAD
+=======
+
+LaTeX Warning: There were undefined references.
+
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
  )
 (\end occurred inside a group at level 1)
@@ -1796,6 +1864,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 82.
 ### simple group (level 1) entered at line 20 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
+<<<<<<< HEAD
  26402 strings out of 493007
  497351 string characters out of 6136719
  639255 words of memory out of 5000000
@@ -1805,3 +1874,14 @@ Here is how much of TeX's memory you used:
  48i,12n,67p,10458b,1933s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on AUTthesis.pdf (62 pages).
+=======
+ 26420 strings out of 493007
+ 498148 string characters out of 6136719
+ 639311 words of memory out of 5000000
+ 29959 multiletter control sequences out of 15000+600000
+ 537957 words of font info for 92 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 48i,12n,67p,10458b,1933s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on AUTthesis.pdf (63 pages).
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc

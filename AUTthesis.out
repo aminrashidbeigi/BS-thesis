@@ -6,6 +6,7 @@
 \BOOKMARK [1][-]{section.2.2}{تعریف مسئله}{chapter.2}% 6
 \BOOKMARK [1][-]{section.2.3}{راه حل پیشنهادی}{chapter.2}% 7
 \BOOKMARK [1][-]{section.2.4}{نیازمندی‌های پروژه}{chapter.2}% 8
+<<<<<<< HEAD
 \BOOKMARK [1][-]{section.2.5}{نتیجه‌گیری}{chapter.2}% 9
 \BOOKMARK [0][-]{chapter.3}{اجزا و تکنولوژی‌ها}{}% 10
 \BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 11
@@ -31,3 +32,64 @@
 \BOOKMARK [1][-]{section.5.1}{جمع‌بندی و نتیجه‌گیری}{chapter.5}% 31
 \BOOKMARK [1][-]{section.5.2}{کارهای آینده}{chapter.5}% 32
 \BOOKMARK [0][-]{appendix*.15}{منابع و مراجع}{}% 33
+=======
+\BOOKMARK [2][-]{subsection.2.4.1}{رابط کاربری مدیریت}{section.2.4}% 9
+\BOOKMARK [2][-]{subsection.2.4.2}{برنامه جمع‌آوری محصولات سفارش‌ها}{section.2.4}% 10
+\BOOKMARK [2][-]{subsection.2.4.3}{برنامه انتخاب محصولات بخش‌ها‌}{section.2.4}% 11
+\BOOKMARK [1][-]{section.2.5}{نتیجه‌گیری}{chapter.2}% 12
+\BOOKMARK [0][-]{chapter.3}{اجزا و تکنولوژی‌ها}{}% 13
+\BOOKMARK [1][-]{section.3.1}{مقدمه}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.2}{رزبری‌پای مدل 3A}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.3}{نمایشگر لمسی 3.5 اینچی وِیوشِر}{chapter.3}% 16
+\BOOKMARK [1][-]{section.3.4}{سیستم‌عامل رزبین}{chapter.3}% 17
+\BOOKMARK [1][-]{section.3.5}{چهارچوب نرم‌افزاری جنگو}{chapter.3}% 18
+\BOOKMARK [2][-]{subsection.3.5.1}{مزیت‌های جنگو}{section.3.5}% 19
+\BOOKMARK [2][-]{subsection.3.5.2}{تاثیر پایتون بر روی جنگو}{section.3.5}% 20
+\BOOKMARK [2][-]{subsection.3.5.3}{بخش‌های جنگو}{section.3.5}% 21
+\BOOKMARK [2][-]{subsection.3.5.4}{انطباق با میزبان‌های مختلف}{section.3.5}% 22
+\BOOKMARK [1][-]{section.3.6}{چهارچوب نرم‌افزاری REST جنگو}{chapter.3}% 23
+\BOOKMARK [2][-]{subsection.3.6.1}{رابط برنامه‌نویسی نرم‌افزار چیست؟}{section.3.6}% 24
+\BOOKMARK [2][-]{subsection.3.6.2}{REST چیست؟}{section.3.6}% 25
+\BOOKMARK [2][-]{subsection.3.6.3}{جنگو REST}{section.3.6}% 26
+\BOOKMARK [1][-]{section.3.7}{چهارچوب نرم‌افزاری Vue.js}{chapter.3}% 27
+\BOOKMARK [2][-]{subsection.3.7.1}{اجزاء}{section.3.7}% 28
+\BOOKMARK [2][-]{subsection.3.7.2}{قالب‌ها}{section.3.7}% 29
+\BOOKMARK [2][-]{subsection.3.7.3}{انتقال‌ها}{section.3.7}% 30
+\BOOKMARK [2][-]{subsection.3.7.4}{چهارچوب نرم‌افزاری Nuxt.js}{section.3.7}% 31
+\BOOKMARK [1][-]{section.3.8}{پایگاه‌داده رابطه‌ای Postgress}{chapter.3}% 32
+\BOOKMARK [2][-]{subsection.3.8.1}{پایگاه داده رابطه‌ای}{section.3.8}% 33
+\BOOKMARK [2][-]{subsection.3.8.2}{پایگاه‌داده Postgress}{section.3.8}% 34
+\BOOKMARK [1][-]{section.3.9}{ماشین مجازی}{chapter.3}% 35
+\BOOKMARK [2][-]{subsection.3.9.1}{دلایل استفاده از میزبان مجازی شخصی}{section.3.9}% 36
+\BOOKMARK [2][-]{subsection.3.9.2}{موارد استفاده از میزبان مجازی شخصی}{section.3.9}% 37
+\BOOKMARK [1][-]{section.3.10}{نتیجه‌گیری}{chapter.3}% 38
+\BOOKMARK [0][-]{chapter.4}{طراحی و پیاده‌سازی}{}% 39
+\BOOKMARK [1][-]{section.4.1}{مقدمه}{chapter.4}% 40
+\BOOKMARK [1][-]{section.4.2}{نمایشگر لمسی}{chapter.4}% 41
+\BOOKMARK [2][-]{subsection.4.2.1}{نحوه قرارگیری بر روی پین‌های GPIO}{section.4.2}% 42
+\BOOKMARK [2][-]{subsection.4.2.2}{راه‌اندازی نمایشگر بر روی رزبری‌پای}{section.4.2}% 43
+\BOOKMARK [2][-]{subsection.4.2.3}{تنظیم صفحه لمسی}{section.4.2}% 44
+\BOOKMARK [1][-]{section.4.3}{طراحی و پیاده‌سازی پایگاه‌داده}{chapter.4}% 45
+\BOOKMARK [2][-]{subsection.4.3.1}{محصولات}{section.4.3}% 46
+\BOOKMARK [2][-]{subsection.4.3.2}{سفارش‌ها}{section.4.3}% 47
+\BOOKMARK [2][-]{subsection.4.3.3}{بخش‌ها}{section.4.3}% 48
+\BOOKMARK [2][-]{subsection.4.3.4}{دسته‌بندی‌ها}{section.4.3}% 49
+\BOOKMARK [2][-]{subsection.4.3.5}{جداول میانی}{section.4.3}% 50
+\BOOKMARK [1][-]{section.4.4}{رابط‌های برنامه‌نویسی نرم‌افزار}{chapter.4}% 51
+\BOOKMARK [2][-]{subsection.4.4.1}{دریافت محصولات فعال}{section.4.4}% 52
+\BOOKMARK [2][-]{subsection.4.4.2}{لیست سفارش‌ها}{section.4.4}% 53
+\BOOKMARK [2][-]{subsection.4.4.3}{دریافت محصولات یک سفارش}{section.4.4}% 54
+\BOOKMARK [2][-]{subsection.4.4.4}{لیست بخش‌ها}{section.4.4}% 55
+\BOOKMARK [2][-]{subsection.4.4.5}{ثبت جایگاه یک محصول}{section.4.4}% 56
+\BOOKMARK [2][-]{subsection.4.4.6}{اطلاع اتمام جمع‌آوری محصولات سفارش}{section.4.4}% 57
+\BOOKMARK [1][-]{section.4.5}{‌برنامه انتخاب محصولات بخش‌ها}{chapter.4}% 58
+\BOOKMARK [1][-]{section.4.6}{برنامه جمع‌آوری محصول}{chapter.4}% 59
+\BOOKMARK [1][-]{section.4.7}{رابط کاربری مدیریت}{chapter.4}% 60
+\BOOKMARK [2][-]{subsection.4.7.1}{احراز هویت و دسترسی}{section.4.7}% 61
+\BOOKMARK [2][-]{subsection.4.7.2}{ایجاد و ویرایش عناصر پایگاه‌داده}{section.4.7}% 62
+\BOOKMARK [1][-]{section.4.8}{نتیجه‌گیری}{chapter.4}% 63
+\BOOKMARK [0][-]{chapter.5}{جمع‌بندی، نتيجه‌گيري و پیشنهادات}{}% 64
+\BOOKMARK [1][-]{section.5.1}{جمع‌بندی و نتیجه‌گیری}{chapter.5}% 65
+\BOOKMARK [1][-]{section.5.2}{کارهای آینده}{chapter.5}% 66
+\BOOKMARK [0][-]{appendix*.15}{منابع و مراجع}{}% 67
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc

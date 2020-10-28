@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.10.5)  28 OCT 2020 19:28
+=======
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2019.10.5)  16 OCT 2019 16:56
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -450,7 +454,10 @@ Missing character: There is no ب in font nullfont!
 Missing character: There is no ز in font nullfont!
 Missing character: There is no ر in font nullfont!
 Missing character: There is no گ in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ، in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no ی in font nullfont!
 Missing character: There is no ک in font nullfont!
 Missing character: There is no ی in font nullfont!
@@ -465,10 +472,13 @@ Missing character: There is no ‌ in font nullfont!
 Missing character: There is no ه in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ی in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ص in font nullfont!
 Missing character: There is no ل in font nullfont!
 Missing character: There is no ی in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no ف in font nullfont!
 Missing character: There is no ر in font nullfont!
 Missing character: There is no و in font nullfont!
@@ -524,7 +534,10 @@ Missing character: There is no آ in font nullfont!
 Missing character: There is no و in font nullfont!
 Missing character: There is no ر in font nullfont!
 Missing character: There is no ن in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no د in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no گ in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ن in font nullfont!
@@ -665,7 +678,10 @@ Missing character: There is no ن in font nullfont!
 Missing character: There is no ب in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ر in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ی in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no م in font nullfont!
 Missing character: There is no ر in font nullfont!
 Missing character: There is no ب in font nullfont!
@@ -685,9 +701,19 @@ Missing character: There is no ر in font nullfont!
 Missing character: There is no ه in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ی in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ی in font nullfont!
 Missing character: There is no ب in font nullfont!
 Missing character: There is no ا in font nullfont!
+=======
+Missing character: There is no د in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ز in font nullfont!
+Missing character: There is no م in font nullfont!
+Missing character: There is no ی in font nullfont!
+Missing character: There is no ن in font nullfont!
+Missing character: There is no ه in font nullfont!
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no م in font nullfont!
 Missing character: There is no ح in font nullfont!
 Missing character: There is no ص in font nullfont!
@@ -867,7 +893,10 @@ Missing character: There is no ل in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ه in font nullfont!
 Missing character: There is no ا in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ، in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no ب in font nullfont!
 Missing character: There is no ر in font nullfont!
 Missing character: There is no ا in font nullfont!
@@ -885,7 +914,10 @@ Missing character: There is no ا in font nullfont!
 Missing character: There is no ر in font nullfont!
 Missing character: There is no ه in font nullfont!
 Missing character: There is no ا in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ، in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ز in font nullfont!
 Missing character: There is no ا in font nullfont!
@@ -1051,11 +1083,18 @@ Missing character: There is no ه in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ی in font nullfont!
 Missing character: There is no م in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ت in font nullfont!
 Missing character: There is no ف in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no و in font nullfont!
 Missing character: There is no ت in font nullfont!
+=======
+Missing character: There is no خ in font nullfont!
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ل in font nullfont!
+Missing character: There is no ف in font nullfont!
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no د in font nullfont!
 Missing character: There is no ر in font nullfont!
 Missing character: There is no ا in font nullfont!
@@ -1200,7 +1239,10 @@ Missing character: There is no و in font nullfont!
 Missing character: There is no ی in font nullfont!
 Missing character: There is no آ in font nullfont!
 Missing character: There is no ن in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ، in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no د in font nullfont!
 Missing character: There is no ر in font nullfont!
 Missing character: There is no ق in font nullfont!
@@ -1262,8 +1304,11 @@ Missing character: There is no ن in font nullfont!
 Missing character: There is no ب in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ر in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ه in font nullfont!
 Missing character: There is no ا in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no و in font nullfont!
 Missing character: There is no ف in font nullfont!
 Missing character: There is no ر in font nullfont!
@@ -1720,7 +1765,10 @@ Missing character: There is no ی in font nullfont!
 Missing character: There is no م in font nullfont!
 Missing character: There is no خ in font nullfont!
 Missing character: There is no ت in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ل in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no ف in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no س in font nullfont!
@@ -1775,7 +1823,10 @@ Missing character: There is no م in font nullfont!
 Missing character: There is no د in font nullfont!
 Missing character: There is no ی in font nullfont!
 Missing character: There is no ر in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ، in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no د in font nullfont!
 Missing character: There is no س in font nullfont!
 Missing character: There is no ت in font nullfont!
@@ -1799,8 +1850,11 @@ Missing character: There is no خ in font nullfont!
 Missing character: There is no ت in font nullfont!
 Missing character: There is no ل in font nullfont!
 Missing character: There is no ف in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ر in font nullfont!
 Missing character: There is no ا in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no ب in font nullfont!
 Missing character: There is no ر in font nullfont!
 Missing character: There is no ا in font nullfont!
@@ -1811,6 +1865,11 @@ Missing character: There is no ن in font nullfont!
 Missing character: There is no ی in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ز in font nullfont!
+<<<<<<< HEAD
+=======
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ا in font nullfont!
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no د in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ش in font nullfont!
@@ -2142,7 +2201,10 @@ Missing character: There is no م in font nullfont!
 Missing character: There is no ک in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ن in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ِ in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no د in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no د in font nullfont!
@@ -2862,7 +2924,11 @@ Missing character: There is no ب in font nullfont!
 Missing character: There is no ر in font nullfont!
 Missing character: There is no ر in font nullfont!
 Missing character: There is no و in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ی in font nullfont!
+=======
+Missing character: There is no ش in font nullfont!
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no ب in font nullfont!
 Missing character: There is no خ in font nullfont!
 Missing character: There is no ش in font nullfont!
@@ -2936,12 +3002,20 @@ Missing character: There is no ب in font nullfont!
 Missing character: There is no خ in font nullfont!
 Missing character: There is no ش in font nullfont!
 Missing character: There is no و in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no م in font nullfont!
 Missing character: There is no و in font nullfont!
 Missing character: There is no ج in font nullfont!
 Missing character: There is no و in font nullfont!
 Missing character: There is no د in font nullfont!
 Missing character: There is no ی in font nullfont!
+=======
+Missing character: There is no ت in font nullfont!
+Missing character: There is no ع in font nullfont!
+Missing character: There is no د in font nullfont!
+Missing character: There is no ا in font nullfont!
+Missing character: There is no د in font nullfont!
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no آ in font nullfont!
 Missing character: There is no ن in font nullfont!
 Missing character: There is no ‌ in font nullfont!
@@ -2979,7 +3053,11 @@ Missing character: There is no و in font nullfont!
 Missing character: There is no ه in font nullfont!
 Missing character: There is no ب in font nullfont!
 Missing character: There is no ر in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ق in font nullfont!
+=======
+Missing character: There is no ف in font nullfont!
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no ط in font nullfont!
 Missing character: There is no ع in font nullfont!
 Missing character: There is no ا in font nullfont!
@@ -3063,11 +3141,14 @@ Missing character: There is no ت in font nullfont!
 Missing character: There is no ، in font nullfont!
 Missing character: There is no آ in font nullfont!
 Missing character: There is no ن in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ت in font nullfont!
 Missing character: There is no غ in font nullfont!
 Missing character: There is no ی in font nullfont!
 Missing character: There is no ی in font nullfont!
 Missing character: There is no ر in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no ر in font nullfont!
 Missing character: There is no ا in font nullfont!
 Missing character: There is no د in font nullfont!
@@ -3090,6 +3171,7 @@ Missing character: There is no ک in font nullfont!
 Missing character: There is no ن in font nullfont!
 Missing character: There is no د in font nullfont!
 Missing character: There is no . in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no ا in font nullfont!
 Missing character: There is no ی in font nullfont!
 Missing character: There is no ن in font nullfont!
@@ -3232,13 +3314,19 @@ Missing character: There is no ش in font nullfont!
 Missing character: There is no و in font nullfont!
 Missing character: There is no د in font nullfont!
 Missing character: There is no . in font nullfont!
+=======
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 43--44
 []
  []
 
 ! Undefined control sequence.
+<<<<<<< HEAD
 l.46 \section
+=======
+l.45 \section
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
              {نتیجه‌گیری}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -3271,12 +3359,18 @@ Missing character: There is no ئ in font nullfont!
 Missing character: There is no ل in font nullfont!
 Missing character: There is no ه in font nullfont!
 Missing character: There is no م in font nullfont!
+<<<<<<< HEAD
 Missing character: There is no و in font nullfont!
 Missing character: There is no ر in font nullfont!
 Missing character: There is no د in font nullfont!
 Missing character: There is no ن in font nullfont!
 Missing character: There is no ظ in font nullfont!
 Missing character: There is no ر in font nullfont!
+=======
+Missing character: There is no ط in font nullfont!
+Missing character: There is no ر in font nullfont!
+Missing character: There is no ح in font nullfont!
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 Missing character: There is no ت in font nullfont!
 Missing character: There is no ع in font nullfont!
 Missing character: There is no ر in font nullfont!
@@ -3451,5 +3545,9 @@ Here is how much of TeX's memory you used:
  4077 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
+<<<<<<< HEAD
  5i,1n,4p,605b,60s stack positions out of 5000i,500n,10000p,200000b,80000s
+=======
+ 5i,1n,4p,600b,60s stack positions out of 5000i,500n,10000p,200000b,80000s
+>>>>>>> 0b914906bc0a1f3ca7b01ffa78967759bf4780dc
 No pages of output.
